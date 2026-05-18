@@ -4,7 +4,6 @@ A simple Python-based chatbot that provides information about **medications** an
 It uses [spaCy](https://spacy.io/) for natural language processing to detect keywords in user input and return relevant details.
 
 ---
-
 ## 🚀 Features
 - Detects medications (e.g., paracetamol, ibuprofen, amoxicillin).
 - Detects injuries (e.g., sprain, fracture, burn).
